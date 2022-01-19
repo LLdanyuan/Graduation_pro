@@ -1,0 +1,44 @@
+------------------------------
+------ OPTION DISPLAY -------
+-----------------------------
+Do gasm -> 1
+Do svea -> 0
+Do one way field -> 0
+Save all field -> 1
+Save Prebeamforming -> 1
+Image nlrf name -> image_b5p5_a005_0
+Field files path -> D:/unit/601/CREANUIS/creanuis_setup/Creanuis/pressure_field/20220115
+Image nlrf save in nlrf_file/image_b5p5_a005_0.nlrf
+-----------------------------
+
+-----------------------------
+------ PROBE DISPLAY --------
+-----------------------------
+Central frequency -> 3.0 MHz
+Sampling frequency -> 100.0 MHz
+Sound velocity -> 1540.0 m/s
+Density -> 1000.0 kg/m3
+Initial pressure -> 1000.0 kPa
+Pitch of the Probe -> 245.0 micro m
+Kerf of the Probe -> 30.0 micro m
+Height of the Probe -> 6.0 mm
+Number of elements -> 163
+Number of active elements -> 64 0
+Transmit Focus -> (0.0; 0.0; 60.0) mm
+Elevation Focus -> 23.0 mm
+Reference attenuation -> 0.050 dB/cm/Mhz
+Gamma coefficient -> 1.5
+Apodization in transmisstion : None
+Apodization in reception : None
+-----------------------------
+
+-----------------------------
+------ SPACE DISPLAY --------
+-----------------------------
+Number of Z point -> 200
+Number of X point -> 80
+Minimum z value of propagation -> 20.0 mm
+Maximum z value of propagation -> 100.0 mm
+Maximum x upper the active part of the probe -> 25.0 mm
+-----------------------------
+
